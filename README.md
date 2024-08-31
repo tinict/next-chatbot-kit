@@ -1,2 +1,2 @@
-# react-chatbot-kit
+# next-chatbot-kit
 react-chatbot-kit
